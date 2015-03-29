@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyContactSearch</string>
+    <string name="search_name">Enter Name to Search</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
